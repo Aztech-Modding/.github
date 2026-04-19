@@ -4,6 +4,7 @@ Creating gameplay experiences, powered by WEB4 goonchain.
 
 ## Our projects
 
+### Create: Bits 'n' Bobs
 <p align="center">
 <a href="https://modrinth.com/mod/create-bits-n-bobs">
 <img src="https://cdn.modrinth.com/data/cached_images/3aa06c5056e6b7f40e5cc3af34426c7581b8105c.png"/>
@@ -11,6 +12,8 @@ Creating gameplay experiences, powered by WEB4 goonchain.
 </p>
 
 A decorative create addon designed to integrate and extend seamlessly.
+
+### Azimuth
 
 <p align="center">
 <a href="https://modrinth.com/mod/azimuth-api">
